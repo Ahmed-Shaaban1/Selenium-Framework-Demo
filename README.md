@@ -73,7 +73,7 @@ You can either **clone** or **download** the project from GitHub:
 
 ### 🔹 Clone the repository:
 ```bash
-git clone https://github.com/Ahmed-Shaaban1/SeleniumFramework-Demo.git
+git clone https://github.com/Ahmed-Shaaban1/Selenium-Framework-Demo.git
 ```
 
 ### 🔹 Or download as a ZIP:
